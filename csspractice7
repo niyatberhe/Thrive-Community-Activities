@@ -1,0 +1,5 @@
+To style the 15 pages of a website, the external CSS method is the most efficient.
+This is because it allows you to apply a single stylesheet across multiple HTML documents.
+If we want to do a one time color change on two of these pages only, we can use internal CSS for those specific HTML files.
+We are not removing the linked stylesheet but just adding a style tag in the head section and that will override the styles in the external CSS file.
+NOTE TO SELF: External CSS can be overridden by both internal and inline CSS, internal by inline, with inline CSS having the highest priority.
