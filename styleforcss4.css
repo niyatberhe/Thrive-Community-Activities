@@ -1,0 +1,21 @@
+h1{
+    text-decoration: underline;
+    text-align: center;
+    text-transform: uppercase;
+    color: red;
+}
+.Banner{
+    background-color: blue;
+    color: white;
+    font-style: italic;
+    border: 7px solid black;
+}
+#special-paragraph{
+    background-color: green;
+    color: gold;
+}
+#super-special-paragraph{
+    background-color: beige;
+    color: grey;
+    font-family: sans-serif;
+}
